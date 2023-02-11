@@ -24,7 +24,7 @@
         
     .nav-link {
         font-size: 13px;
-        font-weight: 600;       
+        font-weight: 600;
     }
 
     &.custom-navbar {
@@ -32,11 +32,11 @@
         padding-bottom: $navbar-padding-y;
 
         .nav-link {
-            color: $white;
+            color: $black;
             margin: 0 6px;
 
             &:hover {
-                color: $white;
+                color: $black;
             }
         }
 
